@@ -1,0 +1,12 @@
+{
+  "name": "stock-app",
+  "version": "1.0.0",
+  "description": "Aplicacion stock",
+  "main": "app.js",
+  "author": "David Perez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
